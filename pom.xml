@@ -21,7 +21,7 @@
 	<artifactId>camel-example-mock</artifactId>
 	<groupId>ch.aymenfurter</groupId>
 	<name>Camel :: Example :: Mock with CXF :: OSGI</name>
-	<description>Orchestrate multiple soap services to one local endpoint</description>
+	<description>simple mock implementation</description>
 	<packaging>bundle</packaging>
 
 	<properties>
